@@ -1,0 +1,18 @@
+[
+    {
+        "AreaId": 1,
+        "pokemonList": [
+            1,
+            2
+        ]
+    },
+    {
+        "AreaId": 2,
+        "pokemonList": [
+            1,
+            2,
+            3,
+            4
+        ]
+    }
+]

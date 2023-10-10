@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Route 1",
+        "base_time": 5,
+        "level_restriction": 1,
+        "background_image": "default"
+    },
+    {
+        "name": "Route 2",
+        "base_time": 10,
+        "level_restriction": 3,
+        "background_image": "default"
+    },
+    {
+        "name": "Viridian Forest",
+        "base_time": 20,
+        "level_restriction": 7,
+        "background_image": "forest"
+    }
+]

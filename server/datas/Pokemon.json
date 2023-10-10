@@ -1,0 +1,44 @@
+[
+    {
+        "name": "rattata",
+        "base_exp": 160,
+        "base_pokedollars": 300,
+        "base_attract_rate": 80
+    },
+    {
+        "name": "pidgey",
+        "base_exp": 200,
+        "base_pokedollars": 300,
+        "base_attract_rate": 80
+    },
+    {
+        "name": "spearow",
+        "base_exp": 240,
+        "base_pokedollars": 400,
+        "base_attract_rate": 80
+    },
+    {
+        "name": "bidoof",
+        "base_exp": 400,
+        "base_pokedollars": 500,
+        "base_attract_rate": 80
+    },
+    {
+        "name": "wurmple",
+        "base_exp": 400,
+        "base_pokedollars": 750,
+        "base_attract_rate": 70
+    },
+    {
+        "name": "magikarp",
+        "base_exp": 300,
+        "base_pokedollars": 200,
+        "base_attract_rate": 95
+    },
+    {
+        "name": "poliwag",
+        "base_exp": 500,
+        "base_pokedollars": 630,
+        "base_attract_rate": 80
+    }
+]

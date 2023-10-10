@@ -1,0 +1,23 @@
+[
+    {
+        "name": "poke-ball",
+        "price": 50,
+        "catch_modifier": 1.0,
+        "special_pkmn": "none",
+        "special_attract_rate": 1
+    },
+    {
+        "name": "great-ball",
+        "price": 150,
+        "catch_modifier": 1.12,
+        "special_pkmn": "none",
+        "special_attract_rate": 1
+    },
+    {
+        "name": "ultra-ball",
+        "price": 400,
+        "catch_modifier": 1.3,
+        "special_pkmn": "none",
+        "special_attract_rate": 1
+    }
+]

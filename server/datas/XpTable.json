@@ -1,0 +1,77 @@
+[
+    {
+        "level": 1,
+        "cumulativeXpRequired": 0,
+        "xpRequiredToNextLevel": 250
+    },
+    {
+        "level": 2,
+        "cumulativeXpRequired": 250,
+        "xpRequiredToNextLevel": 250
+    },
+    {
+        "level": 3,
+        "cumulativeXpRequired": 500,
+        "xpRequiredToNextLevel": 400
+    },
+    {
+        "level": 4,
+        "cumulativeXpRequired": 900,
+        "xpRequiredToNextLevel": 500
+    },
+    {
+        "level": 5,
+        "cumulativeXpRequired": 1400,
+        "xpRequiredToNextLevel": 600
+    },
+    {
+        "level": 6,
+        "cumulativeXpRequired": 2000,
+        "xpRequiredToNextLevel": 700
+    },
+    {
+        "level": 7,
+        "cumulativeXpRequired": 2700,
+        "xpRequiredToNextLevel": 700
+    },
+    {
+        "level": 8,
+        "cumulativeXpRequired": 3400,
+        "xpRequiredToNextLevel": 900
+    },
+    {
+        "level": 9,
+        "cumulativeXpRequired": 4300,
+        "xpRequiredToNextLevel": 1100
+    },
+    {
+        "level": 10,
+        "cumulativeXpRequired": 5400,
+        "xpRequiredToNextLevel": 1400
+    },
+    {
+        "level": 11,
+        "cumulativeXpRequired": 6800,
+        "xpRequiredToNextLevel": 1500
+    },
+    {
+        "level": 12,
+        "cumulativeXpRequired": 8300,
+        "xpRequiredToNextLevel": 1700
+    },
+    {
+        "level": 13,
+        "cumulativeXpRequired": 10000,
+        "xpRequiredToNextLevel": 1900
+    },
+    {
+        "level": 14,
+        "cumulativeXpRequired": 11900,
+        "xpRequiredToNextLevel": 1900
+    },
+    {
+        "level": 15,
+        "cumulativeXpRequired": 13800,
+        "xpRequiredToNextLevel": 2000
+    }
+]
